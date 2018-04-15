@@ -12,10 +12,10 @@ my $plugin = __PACKAGE__->new({
     version        => $VERSION,
     key            => $PLUGIN_NAME,
     id             => $PLUGIN_NAME,
-    author_name    => 'COLSIS Inc.',
-    author_link    => 'https://colsis.jp/',
+    author_name    => 'onagatani',
+    author_link    => 'https://blog.onagatani.com/',
     description    => '<__trans phrase="GoogleSection.">',
-    plugin_link    => 'https://colsis.jp',
+    plugin_link    => 'https://github.com/onagatani/mt-plugin-GoogleSection/',
     registry       => {
         l10n_lexicon => {
             ja => {
