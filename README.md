@@ -29,6 +29,6 @@ MT6で動作確認をしていますが、MT5,MT7でも利用できると思い�
 
 ## Author
 
-[onagatani](https://blog.onagatani.com)
+[onagatani](http://blog.onagatani.com)
 
 
